@@ -8,5 +8,5 @@ import 'src/app.dart';
 void main() {
 // Create a new text widget to show some text on the screen
 // Take that widget an get it on the screen
-runApp(App());
+  runApp(App());
 }
