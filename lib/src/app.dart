@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 class App extends StatefulWidget {
-    State<StatefulWidget> createState() {
+    createState() {
       // TODO: implement createState
       return AppState();
     }
